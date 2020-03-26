@@ -1,0 +1,3 @@
+<!--Used for when you want an object to scale upwards and outwards when hovering over it-->
+div:hover {
+    transform: scale(1.1);
